@@ -4,6 +4,7 @@ Ecommerce Sales Analysis Excel Dashboard
 # Objective
 This Excel dashboard provides a comprehensive analysis of Ecommerce Sales which consists data of Rows - 9995 Columns - 22
 
+![Ecommerce Sales Analysis dashboard_001](https://github.com/Bhagyaak47/Ecommerce-Sales-Analysis-Excel-Dashboard/assets/152842490/1f97d45d-59cb-4de6-8245-4d7646c81343)
 
 # Insights Snapshot: 
 1. Despite technology accounting for only 32% of our sales, it boasts the highest profit margin within our business categories.
