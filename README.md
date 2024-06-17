@@ -15,7 +15,7 @@ This Excel dashboard provides a comprehensive analysis of Ecommerce Sales which 
 
 # Learnings: 
 1. In Dashboard Development: Crafted comprehensive dashboards for insightful data visualization.
-2. 3Ả Calculated Field Mastery: Leveraged Excel's calculated fields to derive powerful insights.
+2. Calculated Field Mastery: Leveraged Excel's calculated fields to derive powerful insights.
 3. Layouting Expertise: Meticulously designed layouts for user-friendly interfaces.
 4. Custom Charts: Tailored charts for specific data representations, enhancing clarity.
 5. Custom Maps & Formatting: Integrated custom maps, ensuring data clarity and impact.
