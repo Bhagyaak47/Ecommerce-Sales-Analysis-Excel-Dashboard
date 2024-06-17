@@ -14,7 +14,12 @@ This Excel dashboard provides a comprehensive analysis of Ecommerce Sales which 
 5. The quantity and number of orders both saw solid upticks, rising by 27.45% and 28.64% respectively. However, this growth coincided with a 5.15% decrease in profit margin, highlighting a challenging balance between increased sales and sustaining profitability.
 
 # Learnings: 
-In Dashboard Development: Crafted comprehensive dashboards for insightful data visualization. 
-3Ả Calculated Field Mastery: Leveraged Excel's calculated fields to derive powerful insights. 
-Layouting Expertise: Meticulously designed layouts for user-friendly interfaces. ~ Custom Charts: Tailored charts for specific data representations, enhancing clarity. i Custom Maps & Formatting: Integrated custom maps, ensuring data clarity and impact. YoY Calculation: Implemented Year-over-Year calculations for dynamic insights. 7 Sparklines Magic: Utilized sparklines for concise trend representation within cells.
+1. In Dashboard Development: Crafted comprehensive dashboards for insightful data visualization.
+2. 3Ả Calculated Field Mastery: Leveraged Excel's calculated fields to derive powerful insights.
+3. Layouting Expertise: Meticulously designed layouts for user-friendly interfaces.
+4. Custom Charts: Tailored charts for specific data representations, enhancing clarity.
+5. Custom Maps & Formatting: Integrated custom maps, ensuring data clarity and impact.
+6. YoY Calculation: Implemented Year-over-Year calculations for dynamic insights.
+7.YoY Calculation: Implemented Year-over-Year calculations for dynamic insights. 
+
 
